@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76C00&width=555&lines=console.log(%22Welcome+to+You!%22);I've+been+waiting+for+you+for+a+long+time.;%E6%88%91%E5%9C%A8%E8%BF%99%E9%87%8C%E7%AD%89%E4%BD%A0%E5%BE%88%E4%B9%85%E4%BA%86%E5%93%A6%E3%80%82" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76C00&width=555&lines=console.log(%22Welcome+to+You!%22);print(%22Welcome+to+You!%22);cout << %22Welcome+to+You!%22 << endl;System.out.println(%22Welcome+to+You!%22);echo %22Welcome+to+You!%22;SELECT %22Welcome+to+You!%22 FROM DUAL" alt="Typing SVG" /></a>
 
 ##  🙋 Hello
 - 😄 About me: I'm a Tester, not a Coder.
