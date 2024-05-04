@@ -28,10 +28,6 @@
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leeyoshinari&repo=performance_monitor&theme=moltack&hide_border=true" /></a><br>
 <a href="https://github.com/leeyoshinari/OneDrive">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leeyoshinari&repo=OneDrive&theme=moltack&hide_border=true" /></a>
-<a href="https://github.com/leeyoshinari/mycloud">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leeyoshinari&repo=mycloud&theme=moltack&hide_border=true" /></a><br>
-<a href="https://github.com/leeyoshinari/ATI_Jmeter">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leeyoshinari&repo=ATI_Jmeter&theme=moltack&hide_border=true" /></a>
 <a href="https://github.com/leeyoshinari/coupon">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leeyoshinari&repo=coupon&theme=moltack&hide_border=true" /></a><br><br>
 
