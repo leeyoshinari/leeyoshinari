@@ -28,8 +28,8 @@
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leeyoshinari&repo=performance_monitor&theme=moltack&hide_border=true" /></a><br>
 <a href="https://github.com/leeyoshinari/OneDrive">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leeyoshinari&repo=OneDrive&theme=moltack&hide_border=true" /></a>
-<a href="https://github.com/leeyoshinari/coupon">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leeyoshinari&repo=coupon&theme=moltack&hide_border=true" /></a><br><br>
+<a href="https://github.com/leeyoshinari/shopping">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leeyoshinari&repo=shopping&theme=moltack&hide_border=true" /></a><br><br>
 
 <img src="https://stats.justsong.cn/api/github?username=leeyoshinari&theme=gruvbox&lang=zh-CN">
 <img src="https://stats.justsong.cn/api/csdn?id=leeyoshinari&theme=great-gatsby&lang=zh-CN">
