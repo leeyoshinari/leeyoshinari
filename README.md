@@ -11,6 +11,7 @@
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 - 🔭 I’m currently working at Lazada (Alibaba Group), and I previously worked at iFLYTEK. I’m currently seeking job opportunities in Wuhan, Hubei Province.
+- 👯 My blog's url is [https://blog.ihuster.top](https://blog.ihuster.top), I would be honored if you can visit [this URL](https://blog.ihuster.top).
 
 <br><img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" /><br>
 
