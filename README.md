@@ -24,14 +24,14 @@
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leeyoshinari&hide_title=true&hide_border=true&hide=XSLT&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
 <!-- Awesome repo 比较好的仓库-->
-<a href="https://github.com/leeyoshinari/MyPlatform">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leeyoshinari&repo=MyPlatform&theme=moltack&hide_border=true" /></a>
-<a href="https://github.com/leeyoshinari/performance_monitor">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leeyoshinari&repo=performance_monitor&theme=moltack&hide_border=true" /></a><br>
 <a href="https://github.com/leeyoshinari/OneDrive">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leeyoshinari&repo=OneDrive&theme=moltack&hide_border=true" /></a>
 <a href="https://github.com/leeyoshinari/shopping">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leeyoshinari&repo=shopping&theme=moltack&hide_border=true" /></a><br><br>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leeyoshinari&repo=shopping&theme=moltack&hide_border=true" /></a><br>
+<a href="https://github.com/leeyoshinari/performance_monitor">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leeyoshinari&repo=performance_monitor&theme=moltack&hide_border=true" /></a>
+<a href="https://github.com/leeyoshinari/mycloud">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=leeyoshinari&repo=mycloud&theme=moltack&hide_border=true" /></a><br><br>
 
 <img src="https://stats.justsong.cn/api/github?username=leeyoshinari&theme=gruvbox&lang=zh-CN">
 <img src="https://stats.justsong.cn/api/csdn?id=leeyoshinari&theme=great-gatsby&lang=zh-CN">
