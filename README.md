@@ -10,7 +10,7 @@
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
-- 🔭 I’m currently working at Lazada (Alibaba Group), and I previously worked at iFLYTEK. I’m currently seeking job opportunities in Wuhan, Hubei Province.
+- 🔭 I'm currently working at Lazada (Alibaba Group) and previously worked at iFlytek. I am currently looking for job opportunities in Wuhan, Hubei Province.
 - 👯 My blog's url is [https://blog.ihuster.top](https://blog.ihuster.top), I would be honored if you can read [my blogs](https://blog.ihuster.top).
 - 📫 My email: leeyoshinari@gmail.com
 
