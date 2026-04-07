@@ -4,6 +4,6 @@
 - 😄 About me: I'm a Tester, not a Coder.
 - 💪 I'm currently working at Lazada (Alibaba Group) and previously worked at iFlytek. I'm looking for job opportunities in Wuhan, Hubei Province.
 - 👯 My blog is [https://leeyoshinari.github.io](https://leeyoshinari.github.io) or [https://blog.ihuster.top](https://blog.ihuster.top).
-- 📫 My email: kinoko@ihuster.top
+- 📫 My email: leeyoshinari@gmail.com
 
 <br>
